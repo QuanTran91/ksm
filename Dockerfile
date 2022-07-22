@@ -1,8 +1,8 @@
 FROM golang
 
-WORKDIR /go/src/github.com/easonlin404/ksm
+WORKDIR /go/src/github.com/QuanTran91/ksm
 
-ADD . /go/src/github.com/easonlin404/ksm
+ADD . /go/src/github.com/QuanTran91/ksm
 
 RUN go get -t -v ./...
 
