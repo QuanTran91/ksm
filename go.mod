@@ -3,7 +3,7 @@ module github.com/QuanTran91/ksm
 go 1.18
 
 require (
-	github.com/QuanTran91/toast v0.0.0-20220722094321-1fe74f4aa6f3
+	github.com/QuanTran91/toast v0.0.2
 	github.com/gin-gonic/gin v1.8.1
 	github.com/stretchr/testify v1.8.0
 )

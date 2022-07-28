@@ -1,5 +1,5 @@
-github.com/QuanTran91/toast v0.0.0-20220722094321-1fe74f4aa6f3 h1:14bBXHQoiugewJWBJqxr4452Een8K6tSoksJT97QGC8=
-github.com/QuanTran91/toast v0.0.0-20220722094321-1fe74f4aa6f3/go.mod h1:pVz5V2ym1ZxKWT8CmEUBq7ws/uDVORWNVzhonEc9PCU=
+github.com/QuanTran91/toast v0.0.2 h1:YSAyyNnaC9ykQuhlGhpMeDpR82rcwKyuiI75UG7bW1c=
+github.com/QuanTran91/toast v0.0.2/go.mod h1:pVz5V2ym1ZxKWT8CmEUBq7ws/uDVORWNVzhonEc9PCU=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
